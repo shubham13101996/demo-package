@@ -1,0 +1,19 @@
+{
+    "name": "shubham130696/demo-package",
+    "description": "Demo Package of shubham",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shubham Pathak",
+            "email": "shubham.pathak@samarth.ac.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "demosamarth\\": "src/"
+        }
+    },
+    "require": {}
+}
+
